@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to My Portfolio
 
-<!--
-**MuokiMutua/MuokiMutua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Ryan Muoki!
 
-Here are some ideas to get you started:
+I'm a student with a passion for machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+
+- **Languages:** Python, HTML, CSS, .
+- **Frameworks:**  Django, Flask.
+- **Tools:** Git
+- 
+## Projects
+
+
+
+## Contact
+
+- **Email:** (mailto:ryanmutua83@gmail.com)
+- **LinkedIn:** (https://www.linkedin.com/in/ryan-mutua-3881b3267/)
+
